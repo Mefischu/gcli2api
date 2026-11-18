@@ -1,4 +1,4 @@
-full_hash=3681773e94fcd452453fa0283d1e81342ee82315
-short_hash=3681773
-message=修复多会话场景下上游 KV 缓存频繁失效的问题 (#450)
-date=2026-11-17 19:51:05 +0800
+full_hash=a36ff19652a99a72164c49288b761e2b7186cc43
+short_hash=a36ff19
+message=Merge pull request #454 from zhu748/fix/asyncpg-sslmode
+date=2026-11-18 17:22:32 +0800
